@@ -1,0 +1,11 @@
+Package: lactcurves
+Type: Package
+Title: Lactation Curve Parameter Estimation
+Version: 1.0.0
+Author: Eva M. Strucken
+Maintainer: Eva M. Strucken <estrucke@une.edu.au>
+Description: AllCurves runs multiple lactation curve models and extracts selection criteria (RSE, R2, log likelihood, AIC, AICC, and BIC) for each model.
+License: GPL-3
+Depends: orthopolynom,splines
+Encoding: UTF-8
+LazyData: true
